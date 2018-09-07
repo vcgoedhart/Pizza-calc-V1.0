@@ -1,0 +1,100 @@
+.small {
+
+	position: absolute;
+	margin-top: 10px;
+
+
+}
+
+.textSmall {
+
+	position: absolute;
+	margin-top: 8px;
+	margin-left: 23px;
+}
+
+.medium {
+   
+   position:  absolute;
+   margin-top: 40px;
+}
+
+.textMedium {
+
+	position: absolute;
+	margin-top: 38px;
+	margin-left: 23px;
+}
+
+.large {
+
+	position: absolute;
+	margin-top: 70px;
+
+}
+
+.textLarge {
+
+	position: absolute;
+	margin-top: 68px;
+	margin-left: 23px;
+
+}
+
+#submitPizza {
+
+	position: absolute;
+	margin-top: 100px;
+}
+
+
+#amountSmall {
+
+	position: absolute;
+	margin-top: 8px;
+	margin-left: 125px;
+}
+
+#amountMedium {
+
+	position: absolute;
+	margin-top: 38px;
+	margin-left: 125px;
+}
+
+#amountLarge {
+
+	position: absolute;
+	margin-top: 68px;
+	margin-left: 125px;
+}
+
+#priceSmall {
+
+	position: absolute;
+	margin-top: 8px;
+	margin-left: 315px;
+}
+
+#priceMedium {
+
+	position: absolute;
+	margin-top: 38px;
+	margin-left: 315px;
+}
+
+#priceLarge {
+
+	position: absolute;
+	margin-top: 68px;
+	margin-left: 315px;
+}
+
+#finalPrice {
+
+	position: absolute;
+	margin-top: 160px;
+	margin-left: 8px;
+
+	font-size: 20px;
+}
